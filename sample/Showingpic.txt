@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title> My Photos </title>
+</head>
+<body>
+	<main> <p> This is my Photo </p> </main>
+	<figure>
+		<img src = "MyImage.jpg" width="500px" alt="Face" >
+	<figcaption> Do you like it? </figcaption> 
+	</figure>
+</body>
+</html>
